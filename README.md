@@ -3,7 +3,9 @@
 **Role & Execution:** Digital Marketing & Campaign Analyst.
 
 - **System Scope:** Formulated a targeted content marketing strategy and commercial campaign architecture for Buffalo Burger to expand market share and customer engagement.
+
 - **Technical Implementation:** Created content calendars, audience segmentation strategies, promotional funnel designs, and KPI tracking metrics to monitor engagement and sales conversion.
+
 - **Tech Stack:** Content Marketing Strategy, Brand Positioning, Campaign Funnel Design, Marketing Analytics.
 
 ## 📁 Project Assets
